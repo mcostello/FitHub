@@ -17,27 +17,22 @@
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 		</noscript>
 	</head>
+	
 	<body id="top">
-
+		
 		<!-- Header -->
-			<header id="header" class="skel-layers-fixed">
-				<h1><a href="#">My Account</a></h1>
-				<nav id="nav">
-					<ul>
-						<li><a href="#top">Top</a></li>
-						<li><a href="#content">Content</a></li>
-						<li><a href="#elements">Elements</a></li>
-						<li><a href="#grid">Grid System</a></li>
-						<li><a href="http://getskel.com" class="button special">Download</a></li>
-					</ul>
-				</nav>
-			</header>
+
 
 		<!-- Banner -->
-			<section id="banner">
-				<h2 style = "center"> My Account</h2>
-			</section>
+		<section id="banner">
+			<h2>FitHub</h2>
+			<p>A community for the active.</p>
+		</section>
 
-
+		<ul class="actions">
+			<li><a href="#content" class="button special">Categories</a></li>
+			<li><a href="#elements" class="button">Friends</a></li>
+			<li><a href="#grid" class="button alt">Next 24 Hours</a></li>
+		</ul>-->
 	</body>
 </html>
